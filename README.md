@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [R for Everything: 时间序列预测—— ARIMA、灰色模型 GM(1,1)、神经网络与混合预测（下）](https://blog.washman.top/post/arima_grey_nnet_combine_ii/)
+- [R for Everything: Rmarkdown 与 Zotero 联动自动插入参考文献](https://blog.washman.top/post/rmd_auto_insert_zotero_bib/)
+- [R for Everything: 时间序列预测—— ARIMA、灰色模型 GM(1,1)、神经网络与混合预测（上）](https://blog.washman.top/post/arima-grey-nnet-combine-forecast/)
+- [Using R: rJava 安装失败小记——ERROR: configuration failed for package ‘rJava’](https://blog.washman.top/post/2021-04-25-rjava-error-configuration-failed-for-package-rjava/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
