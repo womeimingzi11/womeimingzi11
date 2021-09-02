@@ -1,18 +1,29 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Han Chen a.k.a. 我是洗衣机</h1>
-<h3 align="center">A doctoral student at State Key Laboratory of Grasslands and Agro-Ecosystems, Lanzhou University.</h3>
-<h3 align="center">I have Bachelor of Environment Science and studying to obtain my Ph.D in Ecology.</h3>
-<h3 align="center">Yet, I am passionating at Data Science and Programming in R Language, rather than theory at Ecology.</h3>
+<h4 align="center">A doctoral student at State Key Laboratory of Grasslands and Agro-Ecosystems, Lanzhou University.</h4>
+<h4 align="center">I have Bachelor of Environment Science and studying to obtain my Ph.D in Ecology.</h4>
+<h4 align="center">Yet, I am passionating at Data Science and Programming in R Language, rather than theory at Ecology.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=womeimingzi11&label=Profile%20views&color=0e75b6&style=flat" alt="womeimingzi11" /> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/chenhan1992" target="blank"><img src="https://img.shields.io/twitter/follow/chenhan1992?logo=twitter&style=for-the-badge" alt="chenhan1992" /></a></p> -->
 
-<p align="left"> <a href="https://twitter.com/chenhan1992" target="blank"><img src="https://img.shields.io/twitter/follow/chenhan1992?logo=twitter&style=for-the-badge" alt="chenhan1992" /></a></p>
+[![GitHub Badge](https://img.shields.io/github/followers/ameztegui?style=social)](https://github.com/womeimingzi11)
+[![Twitter Badge](https://img.shields.io/twitter/follow/chenhan1992?style=social)](https://twitter.com/chenhan1992)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ERUo88QAAAAJ)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Han-Chen-11)
+[![Publons Badge](https://img.shields.io/badge/Publons-Profile-blue)](https://publons.com/researcher/4620764/han-chen/)
 
-- 🐱‍💻 R package I created [amapGeocode](https://cran.r-project.org/package=amapGeocode)
+### R package I create and maintain:
 
-- 🌟 Shiny App I maintained [moreThanANOVA](https://hanchen.shinyapps.io/moreThanANOVA/) and [rdaWithStep](https://hanchen.shinyapps.io/rdaWithStep/)
+- **[amapGeocode](https://womeimingzi11.github.io/amapGeocode/index.html)**: Getting and parsing data of location geocode/reverse-geocode and administrative regions from 'AutoNavi Maps'  
 
+###  Shiny App I create and maintain:
+
+- **[moreThanANOVA](https://hanchen.shinyapps.io/moreThanANOVA/)**：An open source, cloud-based and free automatic significant test application.
+
+- **[rdaWithStep](https://hanchen.shinyapps.io/rdaWithStep/)**： An open source, cloud-based and free automatic redundancy analysis with step selection procedures (**So far, some improvements is needed**).
+
+### About Me
 - 🌱 I’m currently learning **mongoDB and Tidymodels**
 
 - 📖 My ResearchGate [https://www.researchgate.net/profile/Han-Chen-11](https://www.researchgate.net/profile/Han-Chen-11)
@@ -29,7 +40,7 @@
 - [R for Everything: Rmarkdown 与 Zotero 联动自动插入参考文献](https://blog.washman.top/post/rmd_auto_insert_zotero_bib/)
 - [R for Everything: 时间序列预测—— ARIMA、灰色模型 GM(1,1)、神经网络与混合预测（上）](https://blog.washman.top/post/arima-grey-nnet-combine-forecast/)
 - [Using R: rJava 安装失败小记——ERROR: configuration failed for package ‘rJava’](https://blog.washman.top/post/2021-04-25-rjava-error-configuration-failed-for-package-rjava/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LsIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
