@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/chenhan1992" target="blank"><img src="https://img.shields.io/twitter/follow/chenhan1992?logo=twitter&style=for-the-badge" alt="chenhan1992" /></a></p> -->
 
-[![GitHub Badge](https://img.shields.io/github/followers/ameztegui?style=social)](https://github.com/womeimingzi11)
+[![GitHub Badge](https://img.shields.io/github/followers/womeimingzi11?style=social)](https://github.com/womeimingzi11)
 [![Twitter Badge](https://img.shields.io/twitter/follow/chenhan1992?style=social)](https://twitter.com/chenhan1992)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ERUo88QAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Han-Chen-11)
