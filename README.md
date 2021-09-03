@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Han Chen a.k.a. 我是洗衣机</h1>
 <h4 align="center">A doctoral student at State Key Laboratory of Grasslands and Agro-Ecosystems, Lanzhou University.</h4>
-<h4 align="center">I have Bachelor of Environment Science and studying to obtain my Ph.D in Ecology.</h4>
+<h4 align="center">I have a Bachelor of Environment Science and studying to obtain my Ph.D in Ecology.</h4>
 <h4 align="center">Yet, I am passionating at Data Science and Programming in R Language, rather than theory at Ecology.</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/chenhan1992" target="blank"><img src="https://img.shields.io/twitter/follow/chenhan1992?logo=twitter&style=for-the-badge" alt="chenhan1992" /></a></p> -->
@@ -23,24 +23,18 @@
 
 - **[rdaWithStep](https://hanchen.shinyapps.io/rdaWithStep/)**： An open source, cloud-based and free automatic redundancy analysis with step selection procedures (**So far, some improvements is needed**).
 
+### Read Me?
+
+- I regularly write articles in Chinese on [https://blog.washman.top](https://blog.washman.top). I realise there is too less Chinese content of R online. So any contribution might be worth, if it is contribution. A duplicated version of above articles can also be found from [Zhihu.com](https://www.zhihu.com/people/womeimingzi/posts), a Chinese Quora-like website.
+
+- I do not write too many academic papers, but they still can be found from [ResearchGate](https://www.researchgate.net/profile/Han-Chen-11) or [Publons](https://publons.com/researcher/4620764/han-chen/). And yes, you're welcomed to cite them😘😘
+
 ### About Me
 - 🌱 I’m currently learning **mongoDB and Tidymodels**
-
-- 📖 My ResearchGate [https://www.researchgate.net/profile/Han-Chen-11](https://www.researchgate.net/profile/Han-Chen-11)
-
-- 📝 I regularly write articles on [https://blog.washman.top](https://blog.washman.top)
 
 - 💬 Ask me about **tidyverse, ggplot2, Shiny, PostreSQL, Docker**
 
 - 📫 How to reach me **chenhan28@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [R for Everything: 时间序列预测—— ARIMA、灰色模型 GM(1,1)、神经网络与混合预测（下）](https://blog.washman.top/post/arima_grey_nnet_combine_ii/)
-- [R for Everything: Rmarkdown 与 Zotero 联动自动插入参考文献](https://blog.washman.top/post/rmd_auto_insert_zotero_bib/)
-- [R for Everything: 时间序列预测—— ARIMA、灰色模型 GM(1,1)、神经网络与混合预测（上）](https://blog.washman.top/post/arima-grey-nnet-combine-forecast/)
-- [Using R: rJava 安装失败小记——ERROR: configuration failed for package ‘rJava’](https://blog.washman.top/post/2021-04-25-rjava-error-configuration-failed-for-package-rjava/)
-<!-- BLOG-POST-LsIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
