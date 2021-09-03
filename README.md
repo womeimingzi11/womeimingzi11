@@ -42,6 +42,10 @@
   1. As a researcher, all the data is storing in our own database server. So, expereinced at **SQL Query**.
   2. Due to no student can be authetic as an admin, modifing, deleting, even high frequency adding are forbiden. Only self-learnt experience, no product experience.
 
+- **About Writing**:
+  1. Not academic writing, but online articles. I am super duper good at writing.
+  2. During semi-gap years, I have gotten **multiple 10W+ WeiChat Articles**.
+
 - **About Docker**:
   1. Passionate aboyut Home-labs. But a lazy guy, dockerize saves my life.
 
