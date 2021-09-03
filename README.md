@@ -29,6 +29,25 @@
 
 - I do not write too many academic papers, but they still can be found from [ResearchGate](https://www.researchgate.net/profile/Han-Chen-11) or [Publons](https://publons.com/researcher/4620764/han-chen/). And yes, you're welcomed to cite them😘😘
 
+### Skills and Knowledge
+
+- **About R**: 
+  1. Expertise at **Tidyverse** and **Base R**; 
+  2. Experienced at **Spatial Analysis in R (by raster and terra)** and **Machine Learning in R (by caret and tidymodels)**, this is the duty to finish my Ph.D thesis;
+  3. Also experienced at **Statistics in Public HealthCare** and **Time-Seril Analysis**, as a part-time experience;
+  4. As a lazy guy. Package procedures as **Shiny Apps** to make it easy to replicate.
+  5. **Data Visualization?** Never Stop!
+
+- **About SQL**:
+  1. As a researcher, all the data is storing in our own database server. So, expereinced at **SQL Query**.
+  2. Due to no student can be authetic as an admin, modifing, deleting, even high frequency adding are forbiden. Only self-learnt experience, no product experience.
+
+- **About Docker**:
+  1. Passionate aboyut Home-labs. But a lazy guy, dockerize saves my life.
+
+- **About Ecology**:
+  Show you my keywoard: Ecology Statistics; Spatial Ecology; Soil nematode; Landscape Ecology; Soil Comunity
+
 ### About Me
 - 🌱 I’m currently learning **mongoDB and Tidymodels**
 
