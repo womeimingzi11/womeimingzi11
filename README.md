@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Han Chen a.k.a. 我是洗衣机</h1>
+<h1 align="center">Hi there 👋, I'm Han Chen a.k.a. 我是洗衣机</h1>
 <h4 align="center">A doctoral student at State Key Laboratory of Grasslands and Agro-Ecosystems, Lanzhou University.</h4>
 <h4 align="center">I have a Bachelor of Environment Science and studying to obtain my Ph.D in Ecology.</h4>
 <h4 align="center">Yet, I am passionating at Data Science and Programming in R Language, rather than theory at Ecology.</h3>
