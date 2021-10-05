@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/chenhan1992?style=social)](https://twitter.com/chenhan1992)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ERUo88QAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Han-Chen-11)
-[![Publons Badge](https://img.shields.io/badge/Publons-Profile-blue)](https://publons.com/researcher/4620764/han-chen/)
+[![Publons Badge](https://img.shields.io/badge/Publons-Profile-blue)](https://publons.com/researcher/4656382/han-chen/)
 
 ### R package I create and maintain:
 
