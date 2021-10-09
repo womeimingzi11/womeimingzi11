@@ -13,7 +13,9 @@
 
 ### R package I create and maintain:
 
-- **[amapGeocode](https://womeimingzi11.github.io/amapGeocode/index.html)**: Getting and parsing data of location geocode/reverse-geocode and administrative regions from 'AutoNavi Maps'  
+- **[amapGeocode](https://womeimingzi11.github.io/amapGeocode/index.html)**: Getting and parsing data of location geocode/reverse-geocode and administrative regions from 'AutoNavi Maps'
+
+- **[fgitR](https://github.com/FastGitORG/fgitR)**: Enhancing the accessibility of package install from GitHub.com in PRC.
 
 ###  Shiny App I create and maintain:
 
