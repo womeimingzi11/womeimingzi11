@@ -44,7 +44,7 @@
 
 - **About Writing**:
   1. Not academic writing, but online articles. I am super duper good at writing.
-  2. During semi-gap years, I have gotten **multiple 10W+ WeiChat Articles**.
+  2. During semi-gap years, I have gotten **multiple 10W+ WeChat Articles**.
 
 - **About Docker**:
   1. Passionate aboyut Home-labs. But a lazy guy, dockerize saves my life.
