@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Han Chen a.k.a. 我是洗衣机</h1>
-<h4 align="center">A doctoral student at State Key Laboratory of Grasslands and Agro-Ecosystems, Lanzhou University.</h4>
-<h4 align="center">I get my Ph.D of Ecology from Lanzhou University, China.</h4>
-<h4 align="center">Yet, I work for government consulting.</h4>
+<h4 align="center">I am currently working as a government consultant, and we provide services to various administrative organizations in Sichuan Province.</h4>
+<h4 align="center">I get my Ph.D of Ecology from State Key Laboratory of Grasslands and Agro-Ecosystems,Lanzhou University, China.</h4>
 
 <!-- <p align="left"> <a href="https://twitter.com/chenhan1992" target="blank"><img src="https://img.shields.io/twitter/follow/chenhan1992?logo=twitter&style=for-the-badge" alt="chenhan1992" /></a></p> -->
 
